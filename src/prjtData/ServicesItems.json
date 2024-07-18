@@ -1,0 +1,62 @@
+[
+    {
+        "title": "System Development",
+        "items": [
+            {
+                "title": "Design",
+                "description": "Planning and designing the project framework.",
+                "icon": "IconFilters"
+            },
+            {
+                "title": "Development",
+                "description": "Coding and building the project components.",
+                "icon": "IconTerminal2"
+            },
+            {
+                "title": "Launch",
+                "description": "Deploying the final product and ensuring functionality.",
+                "icon": "IconRocket"
+            }
+        ]
+    },
+    {
+        "title": "Project Documentation",
+        "items": [
+            {
+                "title": "Initial Draft",
+                "description": "Creating preliminary project documentation and outlines.",
+                "icon": "IconNotes"
+            },
+            {
+                "title": "Documentation",
+                "description": "Detailing the development process and methodologies.",
+                "icon": "IconFile3d"
+            },
+            {
+                "title": "Finalization",
+                "description": "Completing and organizing final project documents.",
+                "icon": "IconFileCertificate"
+            }
+        ]
+    },
+    {
+        "title": "Guidance",
+        "items": [
+            {
+                "title": "Consultation",
+                "description": "Providing personalized advice and strategic direction.",
+                "icon": "IconFriends"
+            },
+            {
+                "title": "Support",
+                "description": "Continuous assistance and solutions for project optimization.",
+                "icon": "IconHeartHandshake"
+            },
+            {
+                "title": "Revision",
+                "description": "Reviewing and refining project work for improvement.",
+                "icon": "IconPencilPlus"
+            }
+        ]
+    }
+]

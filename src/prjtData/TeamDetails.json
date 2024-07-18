@@ -1,0 +1,20 @@
+[
+    {
+        "position": "Project Manager",
+        "name": "Julia Corrales",
+        "pic": "/imgs/profile/julia.jpg",
+        "desc": "Attentive IT graduate with six months of experience in fiber optic laying, Inter-VLAN routing, basic hardware and software troubleshooting, computer assembly, and ticketing"
+    },
+    {
+        "position": "Developer",
+        "name": "Amir-khan Bili",
+        "pic": "/imgs/profile/amir.jpg",
+        "desc": "A recent graduate with a Bachelor's degree in Information Technology, specializing in web development with a strong emphasis on backend technologies."
+    },
+    {
+        "position": "Developer",
+        "name": "Amil Asaad",
+        "pic": "/imgs/profile/amil.jpg",
+        "desc": "Self-motivated team player with 2 years of experience in Java software development, from database to UI/UX. Highly adaptable and avid learner who thrives in both team and independent settings."
+    }
+]
